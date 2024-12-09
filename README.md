@@ -66,9 +66,12 @@ License: Apache 2.0
 ## 📁 Files
 
 File Name	Description	Size	Download Link
-train.csv	Training data with 43 features and target value	332.74 MB	Download here
-test.csv	Test data for predictions	332.74 MB	Download here
-sample_submission.csv	Example submission file	13.6 MB	Download here
+
+train.csv	Training data with 43 features and target value	332.74 MB	Download here https://1drv.ms/f/s!AmlaN4R9CsYBhrZiNf7JhVxe7yXojQ?e=Pe602e
+
+test.csv	Test data for predictions	332.74 MB	Download here https://1drv.ms/f/s!AmlaN4R9CsYBhrZiNf7JhVxe7yXojQ?e=Pe602e
+
+sample_submission.csv	Example submission file	13.6 MB	Download here https://1drv.ms/f/s!AmlaN4R9CsYBhrZiNf7JhVxe7yXojQ?e=Pe602e
 
 ## ⚙️ Getting Started
 Download the data using the Kaggle CLI:
