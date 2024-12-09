@@ -78,6 +78,29 @@ Download the data using the Kaggle CLI:
 
 kaggle competitions download -c playground-series-s4e12
 
+## Table of Contents
+
+0. **Introduction**
+   - [Overview of Supervised Learning](#overview-of-supervised-learning)
+   - [Objective: Regression Task](#objective-regression-task)
+   - [Why It's Multiple Linear Regression](#why-its-multiple-linear-regression)
+1. **Import Required Libraries**
+2. **Load and Inspect the Data**
+3. **Preprocessing**
+4. **Train-Test Split for Cross-Validation**
+5. **Cross-Validation with XGBoost**
+6. **Model Training on Full Data and Cross-Validation**
+7. **Predict on Test Data and Prepare Submission**
+8. **Cross-Validation with K-Fold**
+9. **Recommendations for Improvement**
+   - [Hyperparameter Tuning](#hyperparameter-tuning)
+   - [Feature Engineering](#feature-engineering)
+   - [Model Ensembling](#model-ensembling)
+   - [Statistical Aspects of Multiple Linear Regression](#statistical-aspects-of-multiple-linear-regression)
+   - [Test Polynomial Regression](#test-polynomial-regression)
+10. **Submit the File to Kaggle**
+
+
 ## 📜 Citation
 Walter Reade and Elizabeth Park.
 Regression with an Insurance Dataset.
